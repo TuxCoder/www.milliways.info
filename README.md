@@ -1,5 +1,13 @@
 
-#  <Project name>
+#  www.milliways.info
+
+## Install
+
+use python2 and install markdown<3
+`pip install "markdown<3"`
+
+use python3, currently you need my fork
+`pip install git+https://github.com/tuxcoder/clay.git`
 
 ## Instructions
 
